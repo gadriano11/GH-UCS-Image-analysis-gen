@@ -1,2 +1,2 @@
-# GH-UCS-Minigame
-GitHub Universe Cloud Skills Challenge Project 1
+# GH-UCS-Image-analysis-gen
+GitHub Universe Cloud Skills Challenge Project 2
